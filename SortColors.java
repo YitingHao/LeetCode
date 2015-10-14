@@ -1,5 +1,9 @@
 package medium;
-/*	
+/* 75th Question:
+ * Given an array with n objects colored red, white or blue, sort them so that objects of the 
+ * same color are adjacent, with the colors in the order red, white and blue. Here, we will 
+ * use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.
+ *
  * Best Method I know: 
  * Running time O(n) and space O(1)
  * Use two pointers. One points to the last zero, and the other points to the first last one.
